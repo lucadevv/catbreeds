@@ -88,7 +88,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         hasScrollBody: false,
                         child: Center(
                           child: Text(
-                            "Inicia sesión o registrate para continuar",
+                            "No hay existe esa raza de gato 😁",
                             textAlign: TextAlign.center,
                           ),
                         ),
