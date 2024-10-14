@@ -1,0 +1,4 @@
+<view key="view" contentMode="scaleToFill" id="your-view-id">
+    <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+    <color key="backgroundColor" red="0.188" green="0.376" blue="0.373" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+</view>
